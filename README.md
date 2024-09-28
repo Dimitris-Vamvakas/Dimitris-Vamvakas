@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Basketball Analysis.<br>🤔 I’m looking for help with Exploring New Technologies in Sports..<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - dimitrios.s.vamvakas@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: GOAT is Michael Jordan.
+🔭 I’m currently studing data science and machine learning.<br>🌱 I’m currently learning more about Basketball Analysis.<br>🤔 I’m looking for help with Exploring New Technologies in Sports..<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - dimitrios.s.vamvakas@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: GOAT is Michael Jordan.
 
 
 ## 🌐 Socials:
