@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing data science and machine learning.<br>🌱 I’m currently learning more about Basketball Analysis.<br>🤔 I’m looking for help with Exploring New Technologies in Sports..<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - dimitrios.s.vamvakas@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: GOAT is Michael Jordan.
+🔭 I’m currently studing data science and machine learning.<br>🌱 I’m currently learning more about Basketball Analysis.<br>🤔 I’m looking for help with Exploring New Technologies in  Data Science and Sports..<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - dimitrios.s.vamvakas@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: GOAT is Michael Jordan.
 
 
 ## 🌐 Socials:
@@ -17,8 +17,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dimitris-Vamvakas&icon=0&color=0)](https://visitcount.itsvg.in)
