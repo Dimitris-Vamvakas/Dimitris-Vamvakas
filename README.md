@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white](https://www.linkedin.com/in/dimitrios-vamvakas-7057031b6/)
-[https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white](https://twitter.com/vamvakas_dim)
+[(https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dimitrios-vamvakas-7057031b6/)
+[(https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/vamvakas_dim)
 
 
 # 💻 Tech Stack:
