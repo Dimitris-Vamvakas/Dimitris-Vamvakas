@@ -10,7 +10,24 @@
 
 ###
 
-<h6 align="left">📚 I'm currently learning data science and machine learning<br>🎯 Goals: Get a job in this domain!<br>🎲 Fun fact: At the end everything is gonna be fine, if it’s not fine, it’s not the end!</h6>
+<h6 align="left">💻 𝐉𝐮𝐧𝐢𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 with postgraduate studies in 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 and continuous professional development in data analysis, particularly in the sports sector. Professional with excellent analytical skills and proficiency in tools such as SQL, Tableau, Power BI, and Microsoft Power BI Desktop, gained through ongoing seminars and training.
+
+𝐊𝐄𝐘 𝐂𝐎𝐌𝐏𝐄𝐓𝐄𝐍𝐂𝐈𝐄𝐒 📊
+► Data Science & Machine Learning 
+► Data Analysis & Visualization
+► Sports Analytics (Basketball)
+► Business Intelligence (BI)
+► Video Editing 
+
+𝐒𝐓𝐑𝐄𝐍𝐆𝐓𝐇𝐒 💡
+► Analytical thinking
+► Problem-solving
+► Time management
+► High level of accuracy
+► Leadership
+► Innovation 
+
+🗨️ I’m highly motivated to contribute my skills and passion for data to a dynamic team, and excited about new opportunities to work on Data Science projects. Let's connect! 🚀</h6>
 
 ###
 
