@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-vamvakas-7057031b6/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/vamvakas_dim)
+[(https://img.shields.io/twitter/follow/:user)](https://twitter.com/vamvakas_dim)
 
 
 # 💻 Tech Stack:
